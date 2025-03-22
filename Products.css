@@ -1611,7 +1611,7 @@
   .footer5,
   .frame-parent43,
   .wall-clading {
-    display: none;
+    display: none !important;
   }
 }
 @media screen and (max-width: 420px) {
